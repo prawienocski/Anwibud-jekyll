@@ -2,6 +2,6 @@ title: Anwibud
 description: Strona firmy budowlanej
 theme: minima
 baseurl: "" # nie zmieniaj, bo używasz niestandardowej domeny
-url: "https://anwibud.pl"
+url: "https://prawienocski.github.io" # lub docelowa domena
 permalink: pretty
 markdown: kramdown
