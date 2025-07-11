@@ -3,7 +3,7 @@ layout: default
 title: Termomodernizacja
 permalink: /termomodernizacja/
 ---
-{% include nav.html %}
+{% include nav. %}
 <div class="top-gradient-overlay"></div>
 <section id="header" class="wrapper style2">
   <div id="logo" class="frosted-box wide">
@@ -76,7 +76,7 @@ permalink: /termomodernizacja/
 														<a href="#" class="image left"><img src="images/Anwibud_9.jpg" alt="" style="width: 100px; height: 100px; object-fit: cover;"/></a>
 														<h3><a href="https://www.globenewswire.com/news-release/2025/04/23/3066199/28124/en/Pol
 															and-Construction-Industry-Report-2025-Market-Opportunities-in-Polish-Construction-A-Detaile
-															d-10-Year-Forecast.html?">Ożywienie w sektorze budowlanym: +5,1 % wzrost w 2025 r.</a></h3>
+															d-10-Year-Forecast.?">Ożywienie w sektorze budowlanym: +5,1 % wzrost w 2025 r.</a></h3>
 														<p>Według raportu ResearchAndMarkets wartość polskiego rynku budowlanego wzrośnie w 
 															2025 r. o 5,1 %, osiągając około 54 mld EUR (~230 mld zł).</p>
 													</article>
@@ -114,4 +114,4 @@ permalink: /termomodernizacja/
     </div>
   </div>
 </section>
-{% include footer.html %}
+{% include footer. %}
