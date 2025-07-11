@@ -1,0 +1,7 @@
+title: Anwibud
+description: Strona firmy budowlanej
+theme: minima
+baseurl: "" # nie zmieniaj, bo używasz niestandardowej domeny
+url: "https://anwibud.pl"
+permalink: pretty
+markdown: kramdown
