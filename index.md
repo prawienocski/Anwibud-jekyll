@@ -68,7 +68,7 @@ permalink: /
 					<div class="title">O nas</div>
 					<div class="container">
 							<a href="#" class="image featured">
-								<img src="imagess/Elewacje2.jpg" alt="" /> 
+								<img src="imagess/Siedziba2.jpeg" alt="" /> 
 							</a>
 							<section id="features">
 								<header class="style1">
