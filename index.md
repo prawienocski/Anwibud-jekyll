@@ -7,9 +7,9 @@ permalink: /
 <div class="top-gradient-overlay"></div>
 	<div class="hero-container">
 		<div class="hero-box">
-			<img src="images/Anwibud_logo_przezroczyste.png" alt="Anwibud Logo" class="hero-logo" />
+			<img src="imagess/Anwibud_logo_przezroczyste.png" alt="Anwibud Logo" class="hero-logo" />
 			<p>Termomodernizacja i modernizacje od 1998 roku</p>
-			<a href="no-sidebar.html" class="button style1">Zobacz nasze realizacje</a>
+			<a href="{{ '/realizacje/' | relative_url }}">Zobacz nasze realizacje</a>
 		</div>
 	</div>
 				<section id="intro" class="wrapper style1">
@@ -33,7 +33,7 @@ permalink: /
 						<div class="row aln-center">
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
-									<a href="#" class="image featured"><img src="images/Budo1.jpg" alt="" /></a>
+									<a href="#" class="image featured"><img src="imagess/Budo1.jpg" alt="" /></a>
 									<h3><a href="#">Prace ogólnobudowlane</a></h3>
 									<p>Wykonujemy remonty klatek schodowych, montaż balustrad, układanie płytek i inne prace wykończeniowe.
 									Działamy sprawnie, z poszanowaniem przestrzeni wspólnych i życia mieszkańców.
@@ -42,19 +42,19 @@ permalink: /
 							</div>
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
-									<a href="no-sidebar.html" class="image featured"><img src="images/Termo1.jpg" alt="" /></a>
+									<a href="{{ '/realizacje/' | relative_url }}" class="image featured"><img src="imagess/Termo1.jpg" alt="" /></a>
 									<h3><a href="#">Termomodernizacja budynków</a></h3>
 									<p>Zajmujemy się kompleksowym dociepleniem elewacji, stropów i dachów.
 									Nasze prace poprawiają nie tylko estetykę budynku, ale też realnie obniżają koszty ogrzewania.
 									Współpracujemy z renomowanymi dostawcami materiałów i gwarantujemy jakość na lata.</p>
 									<ul class="actions">
-										<li><a href="right-sidebar.html" class="button style1">Dowiedz się więcej</a></li>
+										<li><a href="{{ '/termomodernizacja/' | relative_url }}" class="button style1">Dowiedz się więcej</a></li>
 									</ul>
 								</section>
 							</div>
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
-									<a href="#" class="image featured"><img src="images/Budo2.jpg" alt="" /></a>
+									<a href="#" class="image featured"><img src="imagess/Budo2.jpg" alt="" /></a>
 									<h3><a href="#">Niestandardowe realizacje</a></h3>
 									<p>Podejmujemy się złożonych zadań - 
 									Nasze doświadczenie pozwala na realizację projektów wymagających precyzji i koordynacji.
@@ -68,7 +68,7 @@ permalink: /
 					<div class="title">O nas</div>
 					<div class="container">
 							<a href="#" class="image featured">
-								<img src="images/Elewacje2.jpg" alt="" /> 
+								<img src="imagess/Elewacje2.jpg" alt="" /> 
 							</a>
 							<section id="features">
 								<header class="style1">
