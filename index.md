@@ -5,13 +5,16 @@ permalink: /
 ---
 {% include nav.html %}
 <div class="top-gradient-overlay"></div>
-	<div class="hero-container">
-		<div class="hero-box">
-			<img src="images/Anwibud_logo_przezroczyste.png" alt="Anwibud Logo" class="hero-logo" />
-			<p>Termomodernizacja i modernizacje od 1998 roku</p>
-			<a href="{{ '/realizacje/' | relative_url }}">Zobacz nasze realizacje</a>
-		</div>
-	</div>
+	<section id="header" class="wrapper">
+					<div class="hero-container">
+						<div class="frosted-box hero">
+							<img src="images/Anwibud_logo_przezroczyste.png" alt="Anwibud Logo" class="hero-logo" />
+							<p>Doświadczenie, które buduje zaufanie.</p>
+							<a href="{{ '/realizacje/' | relative_url }}" class="button style1">Zobacz nasze realizacje</a>
+						</div>
+					</div>
+				</section>
+			<!-- Intro -->
 				<section id="intro" class="wrapper style1">
 					<div class="title">Wizja</div>
 					<div class="container">
@@ -27,13 +30,15 @@ permalink: /
 						Stawiamy na rozwój zespołu, nowoczesne technologie i jakość, która realnie poprawia <strong>komfort życia mieszkańców</strong>.</p>
 					</div>
 				</section>
+			<!-- Main -->
+				<!-- Highlights -->
 				<section id="highlights" class="wrapper style3">
 					<div class="title">Czym się zajmujemy</div>
 					<div class="container">
 						<div class="row aln-center">
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
-									<a href="#" class="image featured"><img src="images/Budo1.jpg" alt="" /></a>
+									<a href="#" class="image featured"><img src="images/Anwibud_1.png" alt="" /></a>
 									<h3><a href="#">Prace ogólnobudowlane</a></h3>
 									<p>Wykonujemy remonty klatek schodowych, montaż balustrad, układanie płytek i inne prace wykończeniowe.
 									Działamy sprawnie, z poszanowaniem przestrzeni wspólnych i życia mieszkańców.
@@ -42,7 +47,7 @@ permalink: /
 							</div>
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
-									<a href="{{ '/realizacje/' | relative_url }}" class="image featured"><img src="imagess/Termo1.jpg" alt="" /></a>
+									<a href="#" class="image featured"><img src="images/Anwibud_2.png" alt="" /></a>
 									<h3><a href="#">Termomodernizacja budynków</a></h3>
 									<p>Zajmujemy się kompleksowym dociepleniem elewacji, stropów i dachów.
 									Nasze prace poprawiają nie tylko estetykę budynku, ale też realnie obniżają koszty ogrzewania.
@@ -54,7 +59,7 @@ permalink: /
 							</div>
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
-									<a href="#" class="image featured"><img src="images/Budo2.jpg" alt="" /></a>
+									<a href="#" class="image featured"><img src="images/Anwibud_3.png" alt="" /></a>
 									<h3><a href="#">Niestandardowe realizacje</a></h3>
 									<p>Podejmujemy się złożonych zadań - 
 									Nasze doświadczenie pozwala na realizację projektów wymagających precyzji i koordynacji.
