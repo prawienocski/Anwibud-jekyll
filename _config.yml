@@ -1,6 +1,6 @@
 title: Anwibud
 description: Strona firmy budowlanej
-theme: minima
+#theme: minima
 baseurl: "" # nie zmieniaj, bo używasz niestandardowej domeny
 url: "https://prawienocski.github.io" # lub docelowa domena
 permalink: pretty
