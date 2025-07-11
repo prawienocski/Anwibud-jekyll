@@ -7,7 +7,7 @@ permalink: /
 <div class="top-gradient-overlay"></div>
 	<div class="hero-container">
 		<div class="hero-box">
-			<img src="imagess/Anwibud_logo_przezroczyste.png" alt="Anwibud Logo" class="hero-logo" />
+			<img src="images/Anwibud_logo_przezroczyste.png" alt="Anwibud Logo" class="hero-logo" />
 			<p>Termomodernizacja i modernizacje od 1998 roku</p>
 			<a href="{{ '/realizacje/' | relative_url }}">Zobacz nasze realizacje</a>
 		</div>
@@ -33,7 +33,7 @@ permalink: /
 						<div class="row aln-center">
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
-									<a href="#" class="image featured"><img src="imagess/Budo1.jpg" alt="" /></a>
+									<a href="#" class="image featured"><img src="images/Budo1.jpg" alt="" /></a>
 									<h3><a href="#">Prace ogólnobudowlane</a></h3>
 									<p>Wykonujemy remonty klatek schodowych, montaż balustrad, układanie płytek i inne prace wykończeniowe.
 									Działamy sprawnie, z poszanowaniem przestrzeni wspólnych i życia mieszkańców.
@@ -54,7 +54,7 @@ permalink: /
 							</div>
 							<div class="col-4 col-12-medium">
 								<section class="highlight">
-									<a href="#" class="image featured"><img src="imagess/Budo2.jpg" alt="" /></a>
+									<a href="#" class="image featured"><img src="images/Budo2.jpg" alt="" /></a>
 									<h3><a href="#">Niestandardowe realizacje</a></h3>
 									<p>Podejmujemy się złożonych zadań - 
 									Nasze doświadczenie pozwala na realizację projektów wymagających precyzji i koordynacji.
@@ -68,7 +68,7 @@ permalink: /
 					<div class="title">O nas</div>
 					<div class="container">
 							<a href="#" class="image featured">
-								<img src="imagess/Siedziba2.jpeg" alt="" /> 
+								<img src="images/Siedziba2.jpeg" alt="" /> 
 							</a>
 							<section id="features">
 								<header class="style1">
