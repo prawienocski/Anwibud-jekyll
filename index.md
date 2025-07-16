@@ -4,7 +4,7 @@ title: Strona głowna
 permalink: /
 ---
 <div class="top-gradient-overlay"></div>
-	<section id="header" class="wrapper">
+	<section id="header" class="wrapper" style="background-image: url('{{ "/images/Siedziba.jpeg" | relative_url }}'); background-size: cover; background-position: center;">
 					<div class="hero-container">
 						<div class="frosted-box hero">
 							<img src="{{ '/images/Anwibud_logo_przezroczyste.png' | relative_url }}" alt="Anwibud Logo" class="hero-logo"/>
