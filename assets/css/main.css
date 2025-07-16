@@ -3134,15 +3134,15 @@ html, body {
 }
 
 body.index #header {
-	background-image: url("/Anwibud-jekyll/images/Siedziba.jpeg");
+	background-image: url("../../images/Siedziba.jpeg");
 }
 
 body.no-sidebar #header {
-	background-image: url("/Anwibud-jekyll/images/Siedziba3.png");
+	background-image: url("../../images/Siedziba3.png");
 }
 
 body.right-sidebar #header {
-	background-image: url("/Anwibud-jekyll/images/Siedziba4.jpg");
+	background-image: url("../../images/Siedziba4.jpg");
 }
 
 .wrapper.style2 .title {
