@@ -11,7 +11,7 @@ permalink: /termomodernizacja/
   </div>
 </section>
 <section id="main" class="wrapper style2">
-  <div class="title">Efektywność energetyczna</div>
+  <div class="title">Energooszczędność</div>
   <div class="container">
     <div class="row gtr-150">
       <div class="col-8 col-12-medium">
