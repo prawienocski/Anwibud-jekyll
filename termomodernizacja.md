@@ -3,7 +3,6 @@ layout: default
 title: Termomodernizacja
 permalink: /termomodernizacja/
 ---
-{% include nav.html %}
 <div class="top-gradient-overlay"></div>
 <section id="header" class="wrapper style2">
   <div id="logo" class="frosted-box wide">
