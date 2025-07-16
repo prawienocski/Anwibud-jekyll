@@ -112,4 +112,3 @@ permalink: /termomodernizacja/
     </div>
   </div>
 </section>
-{% include footer.html %}
