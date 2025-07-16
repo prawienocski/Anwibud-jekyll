@@ -3,7 +3,6 @@ layout: default
 title: Nasze realizacje
 permalink: /realizacje/
 ---
-{% include nav.html %}
 <div class="top-gradient-overlay"></div>
 <section id="header" class="wrapper style2">
 	<div id="logo" class="frosted-box default">
@@ -23,5 +22,4 @@ permalink: /realizacje/
 			</article>
 		</div>
 	</div>
-</section>
-{% include footer.html %}			
+</section>		
