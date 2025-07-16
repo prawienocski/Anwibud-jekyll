@@ -23,7 +23,7 @@ permalink: /termomodernizacja/
               <p>Mniej strat, więcej oszczędności.</p>
             </header>
             <a href="#" class="image featured">
-              <img src="images/Anwibud_5.png" alt="" />
+              <img src="{{ '/images/Anwibud_5.png' | relative_url }}" alt="" />
             </a>
             <p>Termomodernizacja to proces poprawy efektywności energetycznej budynków, obejmujący m.in. ocieplenie przegród zewnętrznych, wymianę stolarki okiennej i drzwiowej, modernizację systemu ogrzewania czy montaż odnawialnych źródeł energii. Jego celem jest zmniejszenie strat ciepła, a tym samym obniżenie kosztów eksploatacyjnych oraz poprawa komfortu użytkowania nieruchomości.</p>
             <p>Prawidłowo przeprowadzona termomodernizacja przynosi realne oszczędności i wpływa na zmniejszenie emisji CO₂ do atmosfery. Inwestycja ta zwiększa również wartość rynkową budynku oraz jego żywotność. Dodatkowo pozwala dostosować obiekt do współczesnych norm energetycznych i ekologicznych. Coraz częściej stanowi też warunek uzyskania dofinansowania z programów krajowych i unijnych.</p>
@@ -37,7 +37,7 @@ permalink: /termomodernizacja/
                 <header>
                   <h2>Ulga termomodernizacyjna w 2025</h2>
                 </header>
-                <a href="#" class="image featured"><img src="images/Anwibud_8.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="{{ '/images/Anwibud_8.png' | relative_url }}" alt="" /></a>
                 <p>Ulga termomodernizacyjna to odliczenie od podatku dochodowego przysługujące właścicielom lub współwłaścicielom domów jednorodzinnych...</p>
                 <a href="https://www.podatki.gov.pl/pit/ulgi-odliczenia-i-zwolnienia/ulga-termomodernizacyjna/" class="button style1">Dowiedz się więcej</a>
               </section>
@@ -47,7 +47,7 @@ permalink: /termomodernizacja/
                 <header>
                   <h2>Dyrektywa EPBD</h2>
                 </header>
-                <a href="#" class="image featured"><img src="images/Anwibud_10.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="{{ '/images/Anwibud_10.png' | relative_url }}" alt="" /></a>
                 <p>Nowa dyrektywa EPBD przewiduje, że od 2030 r. wszystkie nowe budynki mają być zeroemisyjne...</p>
                 <a href="https://www.gov.pl/web/rozwoj-technologia/dyrektywa-w-sprawie-charakterystyki-energetycznej-budynkow-epbd" class="button style1">Dowiedz się więcej</a>
               </section>
@@ -73,7 +73,7 @@ permalink: /termomodernizacja/
 											<ul class="style2">
 												<li>
 													<article class="box post-excerpt">
-														<a href="#" class="image left"><img src="images/Anwibud_9.jpg" alt="" style="width: 100px; height: 100px; object-fit: cover;"/></a>
+														<a href="#" class="image left"><img src="{{ '/images/Anwibud_9.jpg' | relative_url }}" alt="" style="width: 100px; height: 100px; object-fit: cover;"/></a> 
 														<h3><a href="https://www.globenewswire.com/news-release/2025/04/23/3066199/28124/en/Poland-Construction-Industry-Report-2025-Market-Opportunities-in-Polish-Construction-A-Detailed-10-Year-Forecast.?">Ożywienie w sektorze budowlanym: +5,1 % wzrost w 2025 r.</a></h3>
 														<p>Według raportu ResearchAndMarkets wartość polskiego rynku budowlanego wzrośnie w 
 															2025 r. o 5,1 %, osiągając około 54 mld EUR (~230 mld zł).</p>
@@ -81,7 +81,7 @@ permalink: /termomodernizacja/
 												</li>
 												<li>
 													<article class="box post-excerpt">
-														<a href="#" class="image left"><img src="images/Aktualnosc2.png" alt="" style="width: 100px; height: 100px; object-fit: cover;"/></a>
+														<a href="#" class="image left"><img src="{{ '/images/Aktualnosc2.png' | relative_url }}" alt="" style="width: 100px; height: 100px; object-fit: cover;"/></a> 
 														<h3><a href="https://www.czystepowietrze.eu/aktualnosci/program-czyste-powietrze-wraca-31-marca-2025-r">Nowa odsłona programu Czyste Powietrze</a></h3>
 														<p>Zmodyfikowana wersja programu ruszyła 31 marca 2025 r. z uproszczonymi 
 															zasadami, nowymi budżetami (do 170 000 zł) i zwiększonym wsparciem.</p>
