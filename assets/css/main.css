@@ -3233,7 +3233,9 @@ body.right-sidebar #header {
   z-index: 1; /* to też może pomóc, ale niekonieczne */
 }
 @media screen and (max-width: 768px) {
-  body {
-    background-color: pink !important;
+  .top-gradient-overlay {
+    display: none !important;
+    background: none !important;
+    height: 0 !important;
   }
 }
