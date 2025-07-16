@@ -4,7 +4,7 @@ title: Termomodernizacja
 permalink: /termomodernizacja/
 ---
 <div class="top-gradient-overlay"></div>
-<section id="header" class="wrapper style2" style="background-image: url('{{ "/images/Siedziba.jpeg" | relative_url }}'); background-size: cover; background-position: center;">
+<section id="header" class="wrapper style2" style="background-image: url('{{ "/images/Siedziba4.jpeg" | relative_url }}'); background-size: cover; background-position: center;">
   <div id="logo" class="frosted-box wide">
     <h1><a href="#">Termomodernizacja</a></h1>
     <p>Przyszłościowy kierunek łączący oszczędność, ekologię oraz komfort życia</p>
