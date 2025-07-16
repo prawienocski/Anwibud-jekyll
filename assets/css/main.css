@@ -3232,3 +3232,8 @@ body.right-sidebar #header {
   position: relative;
   z-index: 1; /* to też może pomóc, ale niekonieczne */
 }
+/* Ukryj przyciemnienie na urządzeniach mobilnych */
+@media screen and (max-width: 768px) {
+  .top-gradient-overlay {
+    display: none;
+  }
