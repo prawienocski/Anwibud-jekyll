@@ -5,3 +5,5 @@ baseurl: "" # nie zmieniaj, bo używasz niestandardowej domeny
 url: "https://anwibud.pl" # lub docelowa domena
 permalink: pretty
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
