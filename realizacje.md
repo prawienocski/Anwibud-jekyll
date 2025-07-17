@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nasze realizacje
+description: Kompleksowa termomodernizacja domów i bloków a także wszelkie prace budowlane na obszarze Polski. Sprawdź ofertę firmy Anwibud.
 permalink: /realizacje/
 ---
 <div class="top-gradient-overlay"></div>
