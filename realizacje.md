@@ -7,7 +7,7 @@ permalink: /realizacje/
 <div class="top-gradient-overlay"></div>
 <section id="header" class="wrapper style2" style="background-image: url('{{ "/images/Siedziba3.png" | relative_url }}'); background-size: cover; background-position: center;">>
 	<div id="logo" class="frosted-box default">
-	<h1><a href="#">Nasze realizacje</a></h1>
+	<h1><a href="#">Realizacje</a></h1>
 	<p>Niektóre z projektów, które zrealizowaliśmy w ostatnich latach</p>
 	</div>
 </section>
