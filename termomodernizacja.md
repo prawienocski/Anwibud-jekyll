@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Termomodernizacja
+description: Czym jest termomodernizacja? Jakie są dofinansowania oferowane przez państwo w zakresie termomodernizacji. Sprawdź ofertę firmy Anwibud.
 permalink: /termomodernizacja/
 ---
 <div class="top-gradient-overlay"></div>
