@@ -3239,3 +3239,59 @@ body.right-sidebar #header {
     height: 0 !important;
   }
 }
+/* === Scroll reveal – base === */
+@media (prefers-reduced-motion: no-preference) {
+[data-animate] {
+opacity: 0;
+transform: translate3d(0, 0, 0);
+transition-property: opacity, transform, filter;
+transition-duration: 700ms;
+transition-timing-function: cubic-bezier(.2,.6,.2,1);
+will-change: opacity, transform;
+}
+[data-animate].is-inview { opacity: 1; filter: none; }
+
+
+/* Warianty */
+[data-animate="fade"] { }
+
+
+[data-animate="up"] { transform: translate3d(0, 24px, 0); }
+[data-animate="up"].is-inview { transform: translate3d(0, 0, 0); }
+
+
+[data-animate="down"] { transform: translate3d(0, -24px, 0); }
+[data-animate="down"].is-inview { transform: translate3d(0, 0, 0); }
+
+
+[data-animate="left"] { transform: translate3d(24px, 0, 0); }
+[data-animate="left"].is-inview { transform: translate3d(0, 0, 0); }
+
+
+[data-animate="right"] { transform: translate3d(-24px, 0, 0); }
+[data-animate="right"].is-inview { transform: translate3d(0, 0, 0); }
+
+
+[data-animate="zoom"] { transform: scale(.96); filter: blur(2px); }
+[data-animate="zoom"].is-inview { transform: scale(1); }
+
+
+/* Subtelny parallax fade dla hero */
+[data-animate="hero"] { transform: translate3d(0, 10px, 0); filter: blur(1px); }
+[data-animate="hero"].is-inview { transform: translate3d(0, 0, 0); filter: none; }
+
+
+/* Opóźnienia – proste utility */
+.delay-100 { transition-delay: 100ms; }
+.delay-200 { transition-delay: 200ms; }
+.delay-300 { transition-delay: 300ms; }
+.delay-400 { transition-delay: 400ms; }
+.delay-500 { transition-delay: 500ms; }
+.delay-600 { transition-delay: 600ms; }
+}
+
+
+/* Gdy użytkownik preferuje mniej animacji – pokazuj od razu */
+@media (prefers-reduced-motion: reduce) {
+[data-animate] { opacity: 1 !important; transform: none !important; filter: none !important; }
+}
