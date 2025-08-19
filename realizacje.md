@@ -23,14 +23,12 @@ permalink: /realizacje/
         <p>Docieplenie ścian zewnętrznych, modernizacja balkonów, nowe balustrady i odświeżona elewacja.  
         Efekt: zmniejszone koszty ogrzewania o 28%.</p>
       </li>
-
       <li data-animate="fade" class="delay-100">
         <span class="image"><img src="{{ '/images/realizacja-2.webp' | relative_url }}" alt="Termomodernizacja szkoły – Płock" /></span>
         <h3>Płock – budynek szkoły</h3>
         <p>Kompleksowe docieplenie wraz z wymianą stolarki okiennej.  
         Efekt: nowoczesny wygląd i wyższy komfort cieplny dla uczniów.</p>
       </li>
-
       <li data-animate="fade" class="delay-200">
         <span class="image"><img src="{{ '/images/realizacja-3.webp' | relative_url }}" alt="Modernizacja kamienicy – Gdańsk" /></span>
         <h3>Gdańsk – kamienica</h3>
