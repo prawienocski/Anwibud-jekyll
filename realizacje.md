@@ -13,28 +13,15 @@ permalink: /realizacje/
   </div>
 </section>
 
-<section id="main" class="wrapper style1" data-animate="fade">
-  <div class="title" data-animate="down">Nasze projekty</div>
-  <div class="container">
-    <ul class="features" data-stagger>
-      <li data-animate="fade">
-        <span class="image"><img src="{{ '/images/realizacja-1.webp' | relative_url }}" alt="Termomodernizacja bloku – Włocławek" /></span>
-        <h3>Włocławek – blok wielorodzinny</h3>
-        <p>Docieplenie ścian zewnętrznych, modernizacja balkonów, nowe balustrady i odświeżona elewacja.  
-        Efekt: zmniejszone koszty ogrzewania o 28%.</p>
-      </li>
-      <li data-animate="fade" class="delay-100">
-        <span class="image"><img src="{{ '/images/realizacja-2.webp' | relative_url }}" alt="Termomodernizacja szkoły – Płock" /></span>
-        <h3>Płock – budynek szkoły</h3>
-        <p>Kompleksowe docieplenie wraz z wymianą stolarki okiennej.  
-        Efekt: nowoczesny wygląd i wyższy komfort cieplny dla uczniów.</p>
-      </li>
-      <li data-animate="fade" class="delay-200">
-        <span class="image"><img src="{{ '/images/realizacja-3.webp' | relative_url }}" alt="Modernizacja kamienicy – Gdańsk" /></span>
-        <h3>Gdańsk – kamienica</h3>
-        <p>Renowacja elewacji, ocieplenie poddasza i wymiana dachu.  
-        Efekt: zachowany historyczny charakter budynku przy jednoczesnej poprawie parametrów energetycznych.</p>
-      </li>
-    </ul>
-  </div>
+<section id="main" class="wrapper style1"> 
+  <div class="title">Strona w trakcie przygotowania</div> 
+    <div class="container"> <div id="content"> 
+      <article class="box post"> 
+        <header class="style1"> 
+          <h2>-----------</h2> 
+          <p>----------------------</p> 
+        </header> 
+      </article> 
+    </div> 
+  </div> 
 </section>
